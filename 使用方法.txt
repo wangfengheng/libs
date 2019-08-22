@@ -1,0 +1,5 @@
+<!-- 工具 start -->
+    <script src="libs/tool4color.js"></script>
+    <script src="libs/tool4threejs/tool4threejs.js"></script>
+    <script src="libs/tool4threejs/createModelsByThreejs.js"></script>
+<!-- 工具 end -->
